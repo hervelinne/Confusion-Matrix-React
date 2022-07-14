@@ -1,0 +1,2349 @@
+{
+  "structValue": {
+    "fields": {
+      "confidenceMetrics": {
+        "listValue": {
+          "values": [
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.04,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.79611653,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.8159204,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.96,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.15,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.7908163,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.8072917,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.7989691,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.23,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.43367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.9139785,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.5882353,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.38,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.29591838,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.45669293,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.57,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.41,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.2857143,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.44444445,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.4,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.29081634,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.4505929,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.34,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.30612245,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.46875,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.3,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.43367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.96590906,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.59859157,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.94,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.01,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.79611653,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.8159204,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.48,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.25,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.43367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.9550562,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.5964912,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.79611653,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.8159204,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.27,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.43367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.9550562,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.5964912,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.99,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.75,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.98,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.1,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.8,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.81795514,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.9,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.29,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.43367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.9550562,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.5964912,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.97,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.2,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.4744898,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.83035713,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.60389614,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.6,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.21938775,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.35983264,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.7,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.37,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.3010204,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.4627451,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.64,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.21938775,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.35983264,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.82,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.45,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.63,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.21938775,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.35983264,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.56,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.12,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.8,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.81795514,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.06,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.79611653,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.8159204,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.84,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.61,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.21938775,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.35983264,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.95,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.02,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.79611653,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.8159204,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.08,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.79611653,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.8159204,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.21,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.4642857,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.85046726,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.60066,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.5,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.47,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.05,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.79611653,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.8159204,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.77,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.92,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.03,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.79611653,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.8159204,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.93,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.85,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.42,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.2755102,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.43199998,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.39,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.29081634,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.4505929,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.89,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.88,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.19,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.47959185,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.8318584,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.60841423,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.69,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.09,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.79611653,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.8159204,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.28,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.43367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.9550562,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.5964912,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.07,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.79611653,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.8159204,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.24,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.43367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.9444444,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.5944056,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.65,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.21938775,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.35983264,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.55,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.51,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.73,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.35,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.3010204,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.4627451,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.72,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.18,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.53571427,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.84,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.65420556,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.76,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.14,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8214286,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.7970297,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.8090452,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.79,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.87,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.66,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.035714287,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.06896552,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.33,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.30612245,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.9836066,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.46692607,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.91,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.16,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.72959185,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.8125,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.7688172,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.58,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.83,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.31,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.43367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.9883721,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.6028369,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.49,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.8,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.52,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.54,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.59,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.21938775,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.35983264,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.26,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.43367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.9550562,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.5964912,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.78,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.22,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.44387755,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.8877551,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.59183675,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.71,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.53,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.46,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.24489796,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.39344263,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.81,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.62,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.21938775,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.35983264,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.11,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.8,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.81795514,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.67,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.17,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.60714287,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.85,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.7083334,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.74,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.32,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.43367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.9883721,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.6028369,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.36,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.3010204,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.4627451,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.86,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.13,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.8367347,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 0.8,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.81795514,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.68,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.43,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.27040815,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.4257028,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            },
+            {
+              "structValue": {
+                "fields": {
+                  "confidenceThreshold": {
+                    "numberValue": 0.44,
+                    "kind": "numberValue"
+                  },
+                  "recall": {
+                    "numberValue": 0.25510204,
+                    "kind": "numberValue"
+                  },
+                  "precision": {
+                    "numberValue": 1,
+                    "kind": "numberValue"
+                  },
+                  "f1Score": {
+                    "numberValue": 0.40650406,
+                    "kind": "numberValue"
+                  }
+                }
+              },
+              "kind": "structValue"
+            }
+          ]
+        },
+        "kind": "listValue"
+      },
+      "confusionMatrix": {
+        "structValue": {
+          "fields": {
+            "annotationSpecs": {
+              "listValue": {
+                "values": [
+                  {
+                    "structValue": {
+                      "fields": {
+                        "displayName": {
+                          "stringValue": "NULL",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  },
+                  {
+                    "structValue": {
+                      "fields": {
+                        "id": {
+                          "stringValue": "370283080641937408",
+                          "kind": "stringValue"
+                        },
+                        "displayName": {
+                          "stringValue": "Ville_Bien",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  },
+                  {
+                    "structValue": {
+                      "fields": {
+                        "id": {
+                          "stringValue": "658513456793649152",
+                          "kind": "stringValue"
+                        },
+                        "displayName": {
+                          "stringValue": "Premiere_Partie",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  },
+                  {
+                    "structValue": {
+                      "fields": {
+                        "id": {
+                          "stringValue": "1811434961400496128",
+                          "kind": "stringValue"
+                        },
+                        "displayName": {
+                          "stringValue": "Denomination_Bien",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  },
+                  {
+                    "structValue": {
+                      "fields": {
+                        "id": {
+                          "stringValue": "2964356466007343104",
+                          "kind": "stringValue"
+                        },
+                        "displayName": {
+                          "stringValue": "Type_Bien",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  },
+                  {
+                    "structValue": {
+                      "fields": {
+                        "id": {
+                          "stringValue": "4117277970614190080",
+                          "kind": "stringValue"
+                        },
+                        "displayName": {
+                          "stringValue": "Titre_Foncier_Bien",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  },
+                  {
+                    "structValue": {
+                      "fields": {
+                        "id": {
+                          "stringValue": "4981969099069325312",
+                          "kind": "stringValue"
+                        },
+                        "displayName": {
+                          "stringValue": "Date_Signature",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  },
+                  {
+                    "structValue": {
+                      "fields": {
+                        "id": {
+                          "stringValue": "5270199475221037056",
+                          "kind": "stringValue"
+                        },
+                        "displayName": {
+                          "stringValue": "Montant_Global_Acte",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  },
+                  {
+                    "structValue": {
+                      "fields": {
+                        "id": {
+                          "stringValue": "6423120979827884032",
+                          "kind": "stringValue"
+                        },
+                        "displayName": {
+                          "stringValue": "Deuxieme_Partie",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  },
+                  {
+                    "structValue": {
+                      "fields": {
+                        "id": {
+                          "stringValue": "7576042484434731008",
+                          "kind": "stringValue"
+                        },
+                        "displayName": {
+                          "stringValue": "Partie_Morale",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  },
+                  {
+                    "structValue": {
+                      "fields": {
+                        "id": {
+                          "stringValue": "8152503236738154496",
+                          "kind": "stringValue"
+                        },
+                        "displayName": {
+                          "stringValue": "Superficie_Bien",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  },
+                  {
+                    "structValue": {
+                      "fields": {
+                        "id": {
+                          "stringValue": "8728963989041577984",
+                          "kind": "stringValue"
+                        },
+                        "displayName": {
+                          "stringValue": "Adresse_Bien",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  },
+                  {
+                    "structValue": {
+                      "fields": {
+                        "id": {
+                          "stringValue": "8312943973463228416",
+                          "kind": "stringValue"
+                        },
+                        "displayName": {
+                          "stringValue": "Montant_hors_la_vue",
+                          "kind": "stringValue"
+                        }
+                      }
+                    },
+                    "kind": "structValue"
+                  }
+                ]
+              },
+              "kind": "listValue"
+            },
+            "rows": {
+              "listValue": {
+                "values": [
+                  {
+                    "listValue": {
+                      "values": [
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 5,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 16,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 1,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 4,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 4,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 2,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        }
+                      ]
+                    },
+                    "kind": "listValue"
+                  },
+                  {
+                    "listValue": {
+                      "values": [
+                        {
+                          "numberValue": 4,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 13,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        }
+                      ]
+                    },
+                    "kind": "listValue"
+                  },
+                  {
+                    "listValue": {
+                      "values": [
+                        {
+                          "numberValue": 2,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValunumberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        }
+                      ]
+                    },
+                    "kind": "listValue"
+                  },
+                  {
+                    "listValue": {
+                      "values": [
+                        {
+                          "numberValue": 3,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 0,
+                          "kind": "numberValue"
+                        },
+                        {
+                          "numberValue": 7,
+                          "kind": "numberValue"
+                        }
+                      ]
+                    },
+                    "kind": "listValue"
+                  }
+                ]
+              },
+              "kind": "listValue"
+            }
+          }
+        },
+        "kind": "structValue"
+      }
+    }
+  },
+  "kind": "structValue"
+}

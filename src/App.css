@@ -1,38 +1,77 @@
-.App {
+ .App{
+  position:relative; 
   text-align: center;
-}
+  margin-top: 2vh;
+ }
+ h1{
+  border : 2px dashed black; 
+  width: 51vw; 
+  margin-left: 30vw;
+  padding: 5px;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+ }
+.bdy{
+  margin-top: 14vh;
+  margin-left: 15vw ;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+}
+ table{
+  width: 55vw;
+  table-layout: fixed;
+ }
+ td:hover{
+  background: yellow;
+  transform:scale(1.25)  ; 
+  border-radius: 10px;
+}
+ .TL{
+
+  padding-right: 200px;
+  white-space: nowrap;
+  font-size: 1.5em;
   }
+ #PL{
+ 
+  transform : 
+  translate(140px,15px)
+  rotate(-37deg); 
+  padding-bottom: 30vh;
+  margin-left: 2vw; 
+  padding: 5px;
+  white-space: nowrap;
+  font-size: 1.5em;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+ .header {
+  transform: 
+  skewY(-10deg)
+  translate(180px, 20px)
+  rotate(-30deg); 
+}
+
+.rows{
+  margin-left: 170px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-direction: row;
+  
+}
+.r{
+  border: 1px dashed black ; 
+  border-radius: 2px;
+  width: 1.4rem;
+  padding: 0em 1.45rem;
+
 }
 
-.App-link {
-  color: #61dafb;
+th{
+  font-size: 0.7em;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+
+ tr:nth-of-type(2n+1) td   {
+  background:#e2f0ef ;
+}
+td:nth-of-type(2n){
+  background:#cddcdb ;
 }
